@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerHurt","path":"sprites/sPlayerHurt/sPlayerHurt.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerHurt",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sCol","path":"sprites/sCol/sCol.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sCol",
     "tags": [],
     "resourceType": "GMSequence",

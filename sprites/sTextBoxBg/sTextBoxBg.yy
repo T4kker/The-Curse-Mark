@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTextBoxBg","path":"sprites/sTextBoxBg/sTextBoxBg.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTextBoxBg",
     "tags": [],
     "resourceType": "GMSequence",
