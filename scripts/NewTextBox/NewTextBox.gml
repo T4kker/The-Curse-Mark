@@ -25,6 +25,7 @@ function NewTextBox(){
 		}
 		else
 		{
+			//teste
 			responses = [-1];
 			responseScripts = [-1];
 		}
